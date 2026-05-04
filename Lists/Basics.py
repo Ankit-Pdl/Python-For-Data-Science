@@ -1,6 +1,8 @@
 # storing multiple datas in a single variable
 
 even_Numbers = [2,4,6,8]
+even_Numbers.remove(8)
+print(even_Numbers)
 
 # accessing 
 
