@@ -36,8 +36,8 @@
 
 
 
-fruits = ("Apple", "Banana", "Mango", "Strawberry")
-(x,*y) = fruits
-print(y)
-fruits = fruits**2
-print(fruits)
+# fruits = ("Apple", "Banana", "Mango", "Strawberry")
+# (x,*y) = fruits
+# print(y)
+# fruits = fruits*2
+# print(fruits)

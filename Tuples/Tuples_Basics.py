@@ -20,7 +20,7 @@ print(type(myStudents))
 
 tuple1 = ("Ankit",True,24)
 
-names = "Ankit", " Rahul"
+names = "Ankit", " Rahul" # also a tuple
 print(names)
 print(type(names))
 
