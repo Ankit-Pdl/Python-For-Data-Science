@@ -63,10 +63,13 @@ name = "Ankit","Abhijit","Sweety"
 # Remove "green" from the set using discard()
 # Print the number of items using len()
 
-colors = {"red", "green","blue"}
-print(colors)
-colors.add("yellow")
-print(colors)
-colors.discard("green")
-print(colors)
-print(len(colors))
+# colors = {"red", "green","blue"}
+# print(colors)
+# colors.add("yellow")
+# print(colors)
+# colors.discard("green")
+# print(colors)
+# print(len(colors))
+
+# ! major advantage of lists is its speed! it works with O(1)
+
