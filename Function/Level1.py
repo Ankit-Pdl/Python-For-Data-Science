@@ -43,7 +43,7 @@
 
 # This way, the function will receive a dictionary of arguments and can access the items accordingly:
 
-def names(**names):
-    print("good student of nist college is: "+ names["last"])
+# def names(**names):
+#     print("good student of nist college is: "+ names["last"])
 
-names(first= "Ankit",last = "Poudel")
+# names(first= "Ankit",last = "Poudel")

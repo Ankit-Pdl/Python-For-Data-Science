@@ -1,4 +1,4 @@
-from important_function import calculate_mean , calculate_median
+from AP import calculate_mean,calculate_median
 
 median = calculate_median(1,3,4)
 print(median)
