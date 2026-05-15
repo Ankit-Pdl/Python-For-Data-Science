@@ -19,13 +19,13 @@
 # print(myFunction())
 
 
-def outerFunction(func):
-    def innerFunction():
-        return func().capitalize()
-    return innerFunction
+# def outerFunction(func):
+#     def innerFunction():
+#         return func().capitalize()
+#     return innerFunction
 
-@outerFunction
-def tempFunction():
-    return "anamika is a good girl!"
+# @outerFunction
+# def tempFunction():
+#     return "anamika is a good girl!"
 
-print(tempFunction())
+# print(tempFunction())

@@ -18,8 +18,9 @@
 
 # python_data = json.loads(json_data) # this is converted to a python format
 # print(type(python_data))
-import json
-with open("streak.json","r") as file:
-       data = json.load(file)
+# import json
+# with open("streak.json","r") as file:
+#        data = json.load(file)
 
-print(data.items())    
+# print(data.items())    
+
